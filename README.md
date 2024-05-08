@@ -5,8 +5,8 @@ Ex08-Windows-basic-commands-batchscript
 To execute Windows basic commands and batch scripting
 
 # DESIGN STEPS:
-<h2>Developed by : Istin B </h2> 
-<h3>Register Number : 212223040068</h3>
+<h2>Developed by : HAFEEZUL DEEN S </h2> 
+<h3>Register Number : 212223220028</h3>
 ### Step 1:
 
 Navigate to any Windows environment installed on the system or installed inside a virtual environment like virtual box/vmware 
